@@ -1,0 +1,7 @@
+numpy
+torch
+torchvision
+pillow
+scipy
+maptlotlib
+pandas
